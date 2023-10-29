@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Canahuate</h1>
-
+  <img src=https://i.imgur.com/NV0em15.png">
 <h3 align="center">A passionate developer with expertise in Android app development, Flutter, and web development.</h3>
 
 - 🔭 I’m currently working on [Carbon Zero](https://github.com/josecanahuate/CarbonZero.git)
