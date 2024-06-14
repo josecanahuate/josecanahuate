@@ -4,16 +4,12 @@
   <img src=https://i.imgur.com/NV0em15.png">
 </div>
 
-- 🔭 I’m currently working on [Carbon Zero](https://github.com/josecanahuate/CarbonZero.git)
+- I’m currently learning **Flutter, React and Laravel**
 
-- 🌱 I’m currently learning **Flutter, React and SEO analysis**
+- All of my projects are available at [https://github.com/josecanahuate](https://github.com/josecanahuate)
 
-- 👨‍💻 All of my projects are available at [https://github.com/josecanahuate](https://github.com/josecanahuate)
-
-- 📫 How to reach me **josecanahuate05@gmail.com**
-
-- ⚡ Fun fact **I ❤️ App Development**
-
+- How to reach me **josecanahuate05@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/vicente9513/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vicente9513/" height="30" width="40" /></a>
