@@ -4,8 +4,6 @@
   <img src=https://i.imgur.com/NV0em15.png">
 </div>
 
-- I’m currently learning **Flutter, React and Laravel**
-
 - All of my projects are available at [https://github.com/josecanahuate](https://github.com/josecanahuate)
 
 - How to reach me **josecanahuate05@gmail.com**
